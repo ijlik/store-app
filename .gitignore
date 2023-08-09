@@ -1,0 +1,7 @@
+lint.xml
+.env
+.github/
+
+.idea/
+storage/
+main
